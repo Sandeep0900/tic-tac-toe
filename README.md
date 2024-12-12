@@ -66,7 +66,8 @@ This is a simple web-based **Tic-Tac-Toe Game** where two players can compete ag
 - **Game Rules:** Extend the game logic in `app.js` to include custom rules or new features.
 
 ## Screenshot
-> Add a screenshot of the game interface here.
+![image](https://github.com/user-attachments/assets/c950588e-3a51-4085-b8bc-76e6aeb1fc2c)
+
 
 ## License
 This project is open-source and free to use under the MIT License.
